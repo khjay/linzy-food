@@ -1,0 +1,19 @@
+{
+  "name": "linzy-food",
+  "version": "1.0.0",
+  "description": "Search food nearby yourself through Line BOT.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khjay/linzy-food.git"
+  },
+  "author": "SJZeng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khjay/linzy-food/issues"
+  },
+  "homepage": "https://github.com/khjay/linzy-food#readme"
+}
